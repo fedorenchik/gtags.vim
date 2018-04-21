@@ -1,6 +1,8 @@
 Vim using GLOBAL
 ================
 
+Updated Feb 9, 2018 (version 6.6.2)
+
 In Vim 6.2 or later, you can use the ‘gtags.vim’ script.
 
 Features
